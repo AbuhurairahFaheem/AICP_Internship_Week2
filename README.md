@@ -1,5 +1,6 @@
 # AICP_Internship_Week2
 Its a week 2 task for AICP(Artificial Intelligence Community of Pakistan) Coding Internship 2.0.
+
 TASK Description:
 The organizer of a senior citizens’ club arranges outings for the members. For each of these outings, a
 coach is hired, meals at a restaurant are reserved and tickets for the theatre are booked. A program is
